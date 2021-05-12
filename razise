@@ -1,0 +1,6 @@
+import math
+numa = int(input("Digite o a:"))
+numb = int(input("Digite o b:"))
+numc = int(input("Digite o c:"))
+
+delta = 
